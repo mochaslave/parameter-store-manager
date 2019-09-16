@@ -3556,9 +3556,9 @@ connect-history-api-fallback@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz#8b32089359308d111115d81cad3fceab888f97bc"
 
-connected-react-router@^6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.4.0.tgz#c382a9e70fdd1247c09c7ece7854622db4d46234"
+connected-react-router@^6.5.2:
+  version "6.5.2"
+  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.5.2.tgz#422af70f86cb276681e20ab4295cf27dd9b6c7e3"
   dependencies:
     immutable "^3.8.1"
     prop-types "^15.7.2"
